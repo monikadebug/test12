@@ -1,9 +1,19 @@
 #btn{
     border: 2px;
-    color: rgb(127, 140, 255);
+    color: #f1f1f3;
     text-align:center;
-    font-size: 16px;
+    font-size: 26px;
+    height: fit-content;
+    padding:5px  15px;
+    background-color: #c01313;
+    
 }
 #main{
     background-color: blueviolet;
+    width: 95vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column-reverse;
 }
