@@ -1,15 +1,15 @@
 #btn{
-    border: 2px;
+    border: 3px;
     color: #f1f1f3;
     text-align:center;
-    font-size: 26px;
+    font-size: 28px;
     height: fit-content;
     padding:5px  15px;
     background-color: #c01313;
     
 }
 #main{
-    background-color: blueviolet;
+    background-color: hwb(65 20% 5%);
     width: 95vw;
     height: 100vh;
     display: flex;
